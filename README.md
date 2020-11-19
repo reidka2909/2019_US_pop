@@ -1,7 +1,7 @@
 # 2019_US_pop
-[Map?](https://reidka2909.github.io/2019_US_pop/)
-There are no errors in any of my consoles (Firefox, Chrome, and Explorer), but the map on my server does not show circles. The map on GitHub 
-shows only the base map.
+[Map?](https://reidka2909.github.io/2019_US_pop/)<br></br>
+There are no errors in any of my consoles (Firefox, Chrome, and Explorer), but the map on my server does not show circles. A screenshot
+is attached to this respoitory. The map on GitHub shows only the base map.
 ### Map Message & Application
 This map could send a message that the size of the state does not dictate or even correlate with the population. California and Texas
 are high in both categories, but the other states correspond between these two factors. For example, Alaska is the largest state with
